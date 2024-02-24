@@ -1,5 +1,3 @@
-![image](https://github.com/TatsavChovatiya/Road_Accidents_Analysis/assets/53991557/86bca89f-da6e-4992-8b49-f779c031106c)# Road_Accidents_Analysis
-
    **REQUIREMENTS **
 
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
